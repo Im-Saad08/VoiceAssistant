@@ -1,0 +1,8 @@
+# Voice Assistant — core dependencies
+google-genai>=2.20.0
+SpeechRecognition>=3.17.0
+PyAudio>=0.2.14
+edge-tts>=7.2.0
+pygame>=2.6.0
+playwright>=1.62.0
+python-dotenv>=1.2.0

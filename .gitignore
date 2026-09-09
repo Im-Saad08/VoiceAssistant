@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.mp3
+logs/
+.browser_profile/
